@@ -1,0 +1,78 @@
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.dll.config
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.pdb
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Helpers.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Mvc.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Razor.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Razor.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Helpers.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Mvc.xml
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.dll
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.pdb
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csprojResolveAssemblyReference.cache
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.dll.config
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.pdb
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\Microsoft.Web.Infrastructure.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Helpers.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Mvc.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Razor.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Deployment.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Razor.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Razor.xml
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.xml
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Deployment.xml
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Razor.xml
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Helpers.xml
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Mvc.xml
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Razor.resources.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.resources.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Helpers.resources.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Mvc.resources.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csproj.AssemblyReference.cache
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csproj.CoreCompileInputs.cache
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csproj.CopyComplete
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.dll
+D:\Carpeta\Documentos\codigos\scripts_bd\Proyecto ASP\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.pdb
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.dll.config
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\SistemaVentasJoyeria.pdb
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\Microsoft.Web.Infrastructure.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Helpers.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Mvc.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Razor.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Deployment.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Razor.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Razor.xml
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.xml
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Deployment.xml
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Webpages.Razor.xml
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Helpers.xml
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\System.Web.Mvc.xml
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Razor.resources.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.resources.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Helpers.resources.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\bin\es\System.Web.Mvc.resources.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csproj.AssemblyReference.cache
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csproj.CoreCompileInputs.cache
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.csproj.CopyComplete
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.dll
+D:\Idat\4to ciclo\Herramientas de programación 2\Proyectos\Proyecto Final\SistemaVentasJoyeria\SistemaVentasJoyeria\obj\Debug\SistemaVentasJoyeria.pdb
